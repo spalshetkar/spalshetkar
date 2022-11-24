@@ -1,6 +1,7 @@
-### Hi there 👋, my name is Sat Palshetkar
+<!-- ### Hi there 👋, my name is Sat Palshetkar
 #### I am a Software Engineer | Backend Engineer
-![I am a Software Engineer | Backend Engineer](https://pbs.twimg.com/profile_banners/1089097393/1643176922/1500x500)
+![I am a Software Engineer | Backend Engineer] -->
+(https://pbs.twimg.com/profile_banners/1089097393/1643176922/1500x500)
 
 I'm a full-time Software Engineer with 3+ years of experience and a passion for working with people to create products to advance, solve real-life problems, and improve society. 
 
