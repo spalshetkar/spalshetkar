@@ -51,7 +51,3 @@
 </div>
 
 ###
-
-<h2 align="left">You can connect with me on</h2>
-
-###
